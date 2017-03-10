@@ -1,4 +1,2 @@
-# bootstrapstarter
-Bootstrap starter template
-Use this document as a way to quickly start any new project.
-All you get is this text and a mostly barebones HTML document.
+# basic template
+Start with this basic HTML template, or modify these examples. We hope you'll customize our templates and examples, adapting them to suit your needs.
